@@ -1,0 +1,52 @@
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\Stewart Control.csprojResolveAssemblyReference.cache
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\bin\Debug\Stewart Control.dll
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\bin\Debug\Stewart Control.pdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\bin\Debug\Stewart_Control.Stewart_Control.apk
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\bin\Debug\Stewart_Control.Stewart_Control-Signed.apk
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\bin\Debug\Xamarin.Android.Support.v4.dll
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\Stewart Control.dll
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\Stewart Control.pdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\android\bin\Stewart_Control.Stewart_Control.apk
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\res\layout\target.xml
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\res\layout\accelerometer.xml
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\res\layout\inverse.xml
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\res\layout\main.xml
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\res\values\strings.xml
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\res\drawable\icon.png
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\res\drawable\ic_action_overflow.png
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\res\drawable\xs.png
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\res\values\themes.xml
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\res\menu\actionbar_main.xml
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\R.cs.flag
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\uploadflags.txt
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\res\layout\settings.xml
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\bin\Debug\Stewart Control.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\bin\Debug\Java.Interop.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\bin\Debug\Microsoft.CSharp.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\bin\Debug\Mono.Android.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\bin\Debug\Mono.CSharp.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\bin\Debug\mscorlib.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\bin\Debug\System.ComponentModel.Composition.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\bin\Debug\System.Core.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\bin\Debug\System.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\bin\Debug\System.Net.Http.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\bin\Debug\System.Runtime.Serialization.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\bin\Debug\System.ServiceModel.Internals.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\bin\Debug\System.Xml.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\bin\Debug\System.Xml.Linq.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\android\assets\Java.Interop.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\android\assets\Mono.Android.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\android\assets\mscorlib.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\android\assets\Stewart Control.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\android\assets\System.Core.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\android\assets\System.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\android\assets\System.Net.Http.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\android\assets\System.Xml.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\obj\Debug\Stewart Control.dll.mdb
+F:\Programming\vs_proj\TI\MainApplication1\Stewart Control\Stewart Control\bin\Debug\Stewart Control.dll.mdb

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout1">
+        <Switch
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/sToggle1" />
+        <TextView
+            android:text="Connect To Device"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/sToggleText1" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout2">
+        <Switch
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/sToggle2" />
+        <TextView
+            android:text="Listen from device"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/sToggleText2" />
+    </LinearLayout>
+    <TextView
+        android:text="Inverse Boundries"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sTextD" />
+    <LinearLayout
+        android:orientation="vertical"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:id="@+id/linearLayout7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/linearLayout9">
+            <TextView
+                android:text="      "
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:id="@+id/sText1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" />
+            <TextView
+                android:text="Min"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:id="@+id/sText2"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" />
+            <TextView
+                android:text="Max"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:id="@+id/sText3"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/linearLayout10">
+            <TextView
+                android:text="X:"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:id="@+id/sText4"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" />
+            <EditText
+                android:inputType="text"
+                android:id="@+id/sMinX"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" />
+            <EditText
+                android:inputType="text"
+                android:id="@+id/sMaxX"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/linearLayout11">
+            <TextView
+                android:text="Y:"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:id="@+id/sText5"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" />
+            <EditText
+                android:inputType="text"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/sMinY" />
+            <EditText
+                android:inputType="text"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/sMaxY" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/linearLayout12">
+            <TextView
+                android:text="Z:"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:id="@+id/sText6"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" />
+            <EditText
+                android:inputType="text"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/sMinZ" />
+            <EditText
+                android:inputType="text"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/sMaxZ" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/linearLayout13">
+            <TextView
+                android:text="Roll:"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:id="@+id/sText7"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" />
+            <EditText
+                android:inputType="text"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/sMinR" />
+            <EditText
+                android:inputType="text"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/sMaxR" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:id="@+id/linearLayout15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:text="Pitch:"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:id="@+id/sText8"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" />
+            <EditText
+                android:inputType="text"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/sMinP" />
+            <EditText
+                android:inputType="text"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/sMaxP" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:id="@+id/linearLayout14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:text="Yaw:"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:id="@+id/sText9"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" />
+            <EditText
+                android:inputType="text"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/sMinYaw" />
+            <EditText
+                android:inputType="text"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/sMaxYaw" />
+        </LinearLayout>
+    </LinearLayout>
+    <Button
+        android:text="Save Inverse Params"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sButtonSave" />
+</LinearLayout>
